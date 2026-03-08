@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Sensitive files
+*.key
+*.pem
+*.env
+credentials.*
+passwords.*
+
+# Compiled binaries
+*.o
+*.exe
+*.elf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
