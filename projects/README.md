@@ -16,7 +16,7 @@ Other: VPN tunnels
 
 ### Apps/plugins
 
-Developed sound reductiong software to a game called Rainbow six siege but overwolf saw it as a game changing addon so it got drafted.
+Developed sound reduction software to a game called Rainbow six siege but overwolf saw it as a game changing addon so it got drafted.
 Used python in overwolfs developer side to create a software that gets ingame data round start and end to reduce your overall volume (the round start and end volumes were very very very loud..)
 
 
