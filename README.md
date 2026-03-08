@@ -8,15 +8,15 @@ I'm Jesse, a 21-year-old third-year ICT Engineering student at [JAMK University 
 
 ## Skills
 
-**Programming:** Python, HTML, JavaScript, MySQL, 
+**Programming:** Python, HTML, JavaScript, MySQL
 
 **Operating Systems:** Linux, Windows
 
 **IT & Networking:** Computers, phones, tablets, AV & presentation tech, networking, firewalls, Docker
 
-**Security Tools:** FlareVM, ProcMon, Regshot, FakeNet-NG, Wireshark, Ghidra, IDA Free, Kali Linux, Burp Suite, Nmap, Metasploit, CyberChef, Nessus, GreenBone, 
+**Security Tools:** FlareVM, ProcMon, Regshot, FakeNet-NG, Wireshark, Ghidra, IDA Free, Kali Linux, Burp Suite, Nmap, Metasploit, CyberChef, Nessus, GreenBone
 
-**Other:** Customer service, project working
+**Other:** Customer service, project working, Blender, Unreal Engine
 
 **Languages:** Finnish, English
 
