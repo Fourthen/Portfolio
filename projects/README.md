@@ -33,4 +33,4 @@ see: https://github.com/Fourthen/encrypted_chat
 
 ### Web site from scratch with html and js
 
-Built an website portfolio from scratch in vs. 
+Built an website portfolio from scratch. 
