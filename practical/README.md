@@ -1,98 +1,54 @@
 # Practical
 
-Labs, exercises, and CTF write-ups from coursework and self-study.
+Here I am talking about my hands-on experience form practical stuff in my own head important courses.
 
----
+## Cyber Security Exercise 1 — Building Blue Team Organizations from Scratch
 
-## Malware Analysis
+- **Platform:** Proxmox (virtualized environment)
+- **Scope:** Built two complete company infrastructures from the ground up
+- **Role:** White team — responsible for building and maintaining the entire infrastructure
+- **Collaboration:** Team exercise with coursemates as part of JAMK cybersecurity coursework
 
-### WinLab01 — Windows Malware Analysis
+**Infrastructure built for each organization:**
 
-- **Environment:** FlareVM
-- **Tools:** Regshot, FakeNet-NG, ProcMon
+**Networking & Security**
+- Configured dedicated firewalls for each organization
+- Designed and implemented network segmentation
+- Set up intranet for internal communication
 
-Dynamic analysis of a malware sample. Took baseline snapshots, intercepted network traffic, monitored process behavior, and documented IOCs.
+**Domain & Services**
+- Deployed and configured domain controllers
+- Set up internal mail services for each organization
+- Established DNS and domain management
 
----
+**Monitoring & Data**
+- Deployed SIEM for log collection and monitoring (limited personal involvement)
+- Set up PCAP for network traffic capture and analysis
+- Built databases populated with mocked data to simulate a real production environment
 
-## Penetration Testing
+**Kill Chain Scenario**
+- Designed and executed an insider threat kill chain where an internal attacker modified database data
+- Blue Team 1 and Blue Team 2 had to detect and respond to the attack independently
 
-### CHallenger — Multi-Stage CTF
+**Key Takeaways:**
+- Gained experience building enterprise infrastructure from zero
+- Learned how different services (firewall, mail, DC, SIEM) depend on and interact with each other
+- Analyzed data to trace the insider threat through the kill chain
+- Observed and evaluated how both blue teams detected and reacted to the same incident differently
 
-- **Techniques:** WordPress SQL injection → social engineering via email → reverse shell to internal Windows workstation
+## Cyber Security Exercise 2 — Red Team Campaign Against Blue Teams
 
-### OWASP Juice Shop
+- **Role:** Red team operator
+- **Collaboration:** Joint exercise with YAMK (Master's degree) students
+- **Scope:** Planned and executed attack campaigns against three separate blue teams
 
-- **Tools:** Burp Suite, browser dev tools
+**Overview**
+- Designed attack campaigns targeting three different blue team organizations
+- Performed injections and exploited vulnerabilities across various systems and services
+- Worked as part of a red team alongside more experienced YAMK students
 
-Web application security testing against an intentionally vulnerable application.
+**Key Takeaways:**
+- Hands-on experience with real attack planning and execution
+- Learned how to identify and exploit vulnerabilities in different systems
+- Gained understanding of how attacks look from the offensive side, complementing the defensive experience from Exercise 1
 
-### Pickle Deserialization RCE
-
-Python pickle deserialization leading to remote code execution.
-
-### SSRF/XXE Chain — CVE-2021-43798
-
-Server-Side Request Forgery combined with XML External Entity injection.
-
----
-
-## Reverse Engineering
-
-### Lab04 — XOR Password Cracking (ELF Binary)
-
-- **Tools:** IDA Free
-
-Reverse engineered an ELF binary's XOR-based password validation to recover the password.
-
----
-
-## Shellcode
-
-### TTC6520-3005 — Null-Byte-Free Shellcode
-
-- **Architecture:** x86 (32-bit)
-
-Developed shellcode without null bytes using XOR zeroing, small registers, and arithmetic operations.
-
----
-
-## Cryptography
-
-### CTF — XOR Flag Challenge
-
-XOR string manipulation to recover a hidden flag.
-
-### RSA — Key Generation and Encryption
-
-- **Tools:** Python, GeoGebra
-
-Exercises in prime selection, key generation, modular exponentiation, and Euler's totient.
-
-### LFSR Analysis
-
-Analyzed Linear Feedback Shift Register sequences and their cryptographic weaknesses.
-
----
-
-## Network Security
-
-### Lab Network Audit — 192.168.1.0/24
-
-Full security audit of a lab network. Produced both a technical report and an executive summary.
-
----
-
-## Blue Team
-
-### Virtual Company Environments
-
-Built two complete company environments from scratch in virtual infrastructure: firewalls, backbone network, SIEM, and Domain Controller.
-
----
-
-## Red Team
-
-### Penetration Testing with YAMK
-
-Collaborative exercise with Master's degree students — penetration testing company services.
