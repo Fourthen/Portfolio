@@ -4,7 +4,7 @@
 
 ### Self-Hosting Platform
 
-- **Tools:** Docker, firewall, router, computer, phone
+Docker, firewall, router, computer
 
 Set up a self-hosted platform with containerized services, firewall configuration, and routing from a personal machines. Yes, even installed linux terminal app to my old phone and ran a Minecraft server from that.
 
