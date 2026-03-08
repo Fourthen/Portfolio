@@ -4,11 +4,11 @@ A collection of my projects, write-ups, and hands-on experience in cybersecurity
 
 ## About Me
 
-I'm Jesse, a 21-year-old third-year ICT Engineering student at [JAMK University of Applied Sciences](https://opetussuunnitelmat.peppi.jamk.fi/48/fi/0/5290/916/160). I'm ambitious, a quick learner, and passionate about solving problems in IT. My interests are in cybersecurity and DevOps, but I'm comfortable with everything from helpdesk to coding.
+I'm Jesse, a 21-year-old third-year ICT Engineering student at [JAMK University of Applied Sciences](https://opetussuunnitelmat.peppi.jamk.fi/48/fi/0/5290/916/160). I'm ambitious, a quick learner, and passionate about solving problems in IT. I can understand and comprehend complex systems and leverage that knowledge to quickly pick up new technologies, languages, and tools. My interests are in cybersecurity and DevOps, but I'm comfortable with everything from helpdesk to coding.
 
 ## Skills
 
-**Programming:** Python, HTML, JavaScript, MySQL, Bash, x86 Assembly
+**Programming:** Python, HTML, JavaScript, MySQL, 
 
 **Operating Systems:** Linux, Windows
 
@@ -16,7 +16,7 @@ I'm Jesse, a 21-year-old third-year ICT Engineering student at [JAMK University 
 
 **Security Tools:** FlareVM, ProcMon, Regshot, FakeNet-NG, Wireshark, Ghidra, IDA Free, Kali Linux, Burp Suite, Nmap, Metasploit, CyberChef
 
-**Other:** Customer service, project work
+**Other:** Customer service, project working
 
 **Languages:** Finnish, English
 
@@ -46,7 +46,7 @@ Työturva, Tulityö, Sähkötyö (SFS 6002), Ensiapu, Tietyö
 | Section | Description |
 |---|---|
 | [Projects](./projects/) | Personal and school projects |
-| [Practical](./practical/) | Labs, exercises, and CTF write-ups |
+| [Practical](./practical/) | Honorable mentions of practical work |
 
 ## Disclaimer
 
