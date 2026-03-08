@@ -1,41 +1,36 @@
 # Projects
 
-Personal and school projects.
+## Personal
 
----
+### Self-Hosting Platform
 
-## Encrypted Chat Application
+- **Tools:** Docker, firewall, router, computer, phone
 
-- **Language:** Python
-- **Encryption:** ChaCha20-Poly1305
+Set up a self-hosted platform with containerized services, firewall configuration, and routing from a personal machines. Yes, even installed linux terminal app to my old phone and ran a Minecraft server from that.
 
-A chat application with end-to-end encryption built from scratch.
+### Computer Building & Optimization
 
----
+Assembled and disassembled numerous computers. Performed system optimization and troubleshooting.
 
-## Self-Hosting Platform
+Other: VPN tunnels
 
-- **Tools:** Docker, firewall, router
+## School
 
-Set up a self-hosted platform with containerized services, firewall configuration, and routing from a personal machine.
-
----
-
-## "Future Factory" — School Project
+### "Future Factory" — School Project
 
 - **Type:** Group project
 - **Topics:** DEV/SEC/OPS
 
 Built and hosted an ecommerce platform with Docker, including configuration, development, and ongoing maintenance.
 
----
+### Encrypted Chat Application
 
-## VPN Site-to-Site
+- **Language:** Python
+- **Encryption:** ChaCha20-Poly1305
 
-Set up a site-to-site VPN connection between two networks.
+A chat application with end-to-end encryption built from scratch.
+see: https://github.com/Fourthen/encrypted_chat
 
----
+### Web site from scratch with html and js
 
-## Computer Building & Optimization
-
-Assembled and disassembled numerous computers. Performed system optimization and troubleshooting.
+Built an website portfolio from scratch in vs. 
