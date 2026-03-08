@@ -4,7 +4,7 @@ A collection of my projects, write-ups, and hands-on experience in cybersecurity
 
 ## About Me
 
-I'm Jesse, a 21-year-old third-year ICT Engineering student at [JAMK University of Applied Sciences](https://opetussuunnitelmat.peppi.jamk.fi/48/fi/0/5290/916/160). I'm ambitious, a quick learner, and passionate about solving problems in IT. I can understand and comprehend complex systems and leverage that knowledge to quickly pick up new technologies, languages, and tools. My interests are in cybersecurity and DevOps, but I'm comfortable with everything from helpdesk to coding.
+I'm Jesse, a 21-year-old third-year ICT Engineering student at [JAMK University of Applied Sciences](https://opetussuunnitelmat.peppi.jamk.fi/48/fi/0/5290/916/160). I'm ambitious, a quick learner, and passionate about solving problems in IT. I can understand and comprehend complex systems and leverage that knowledge to quickly pick up new technologies, languages, and tools. My interests are in cybersecurity, devops, coding, networking and project working at the moment.
 
 ## Skills
 
