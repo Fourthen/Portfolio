@@ -50,6 +50,8 @@ Handled support tickets from teachers and students. Experience with phones, comp
 **Sales Associate** — Euronics
 Helped customers with phones, computers, smart watches, and printers.
 
+**Other non IT related not listed:)**
+
 ## Certifications & Cards
 
 Työturva, Tulityö, Sähkötyö (SFS 6002), Ensiapu, Tietyö
