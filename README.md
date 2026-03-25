@@ -29,7 +29,8 @@ I'm Jesse, a 21-year-old third-year ICT Engineering student at [JAMK University 
 **Other Tools:** Blender, Unreal Engine
 
 **Soft Skills:** Customer service, project collaboration
-Languages: Finnish, English
+
+**Languages:** Finnish, English
 
 
 ## Education
