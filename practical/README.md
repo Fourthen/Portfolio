@@ -36,6 +36,12 @@ Here I am talking about my hands-on experience form practical stuff in my own he
 - Analyzed data to trace the insider threat through the kill chain
 - Observed and evaluated how both blue teams detected and reacted to the same incident differently
 
+
+![Proxmox Pool View showing all VMs for both organizations](proxmox_environment.png) 
+
+
+
+
 ## Cyber Security Exercise 2 — Red Team Campaign Against Blue Teams
 
 - **Role:** Red team operator
