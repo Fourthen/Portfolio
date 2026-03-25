@@ -12,13 +12,25 @@ I'm Jesse, a 21-year-old third-year ICT Engineering student at [JAMK University 
 
 **Operating Systems:** Linux, Windows
 
-**IT & Networking:** Computers, phones, tablets, AV & presentation tech, networking, firewalls, Docker, DomainController, 
+**Containerization & Virtualization:** Docker, Proxmox
 
-**Security Tools:** FlareVM, ProcMon, Regshot, FakeNet-NG, Wireshark, Ghidra, IDA Free, Kali Linux, Burp Suite, Nmap, Metasploit, CyberChef, Nessus, GreenBone
+**IT & Networking:** Computers, phones, tablets, AV & presentation tech, networking, firewalls, Active Directory
 
-**Other:** Customer service, project working, Blender, Unreal Engine, Grafana
+**Penetration Testing & Security:** Kali Linux (Nmap, Metasploit, Burp Suite), Wireshark, Nessus, Greenbone
 
-**Languages:** Finnish, English
+**Malware Analysis:** FlareVM (ProcMon, Regshot, FakeNet-NG), Ghidra, IDA Free, CyberChef
+
+**Red Team & C2:** Sliver
+
+**Monitoring & Visualization:** Grafana
+
+**Documentation:** Technical reporting, MITRE ATT&CK mapping
+
+**Other Tools:** Blender, Unreal Engine
+
+**Soft Skills:** Customer service, project collaboration
+Languages: Finnish, English
+
 
 ## Education
 
