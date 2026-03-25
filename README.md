@@ -37,7 +37,7 @@ I'm Jesse, a 21-year-old third-year ICT Engineering student at [JAMK University 
 
 **ICT Engineering (B.Eng)** — JAMK University of Applied Sciences
 *Aug 2023 – Present*
-Fullstack development, cybersecurity, operating systems, networks, databases.
+Fullstack development, cybersecurity, operating systems, networks, 
 
 **ICT Vocational Degree** — *Aug 2020 – Jan 2023*
 IT support, customer service, cabling, programming, 3D modeling.
