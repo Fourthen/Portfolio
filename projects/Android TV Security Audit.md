@@ -7,7 +7,7 @@ Tools: Kali Linux, nmap, ADB, iptables, VirtualBox
 
 | Property | Value |
 |----------|-------|
-| Model | Thomson 4K TV (Google TV) |
+| Model | (Google TV) |
 | Chipset | Realtek RTK5 |
 | Kernel | Linux 5.4.242 |
 | Security Patch | 2025-07-01 |
