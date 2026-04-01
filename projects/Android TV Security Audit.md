@@ -82,8 +82,8 @@ adb shell dumpsys audio | grep -i "mic"
 
 With the TV sitting on the home screen doing nothing, `netstat` revealed **20+ active connections**:
 
-| Destination | Purpose |
-|-------------|---------|
+| Purpose | 
+|-------------|
 | Google services & APIs |
 | Firebase Cloud Messaging (push notifications) |
 | Google (likely ads/analytics) |
